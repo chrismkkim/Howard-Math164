@@ -1,0 +1,14 @@
+lines.linewidth : 0.8
+lines.markersize: 1
+font.size : 7
+legend.fontsize : 7
+legend.handlelength : 1
+legend.frameon: False
+axes.spines.top : False
+axes.spines.right : False
+xtick.labelsize : 7
+ytick.labelsize : 7
+figure.titlesize: 7
+figure.figsize: 2.0, 1.5
+figure.facecolor: 'w'
+figure.dpi: 300
